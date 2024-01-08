@@ -1,0 +1,46 @@
+How to develop insights?
+1)What is the bussiness goals?
+*Make money/Limit long wait times
+
+2)What is our metric of successor failure?
+*Wait times
+
+3)What are the trends?
+*Time of the day when wwait tims increase
+*Days of week when wait times increase
+
+4)How can fix the treads?
+*Staffing?
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
